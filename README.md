@@ -13,3 +13,8 @@ $ docker-compose up
 ## Author
 
 - **Gaël THOMAS** - [gaelgthomas](https://github.com/gaelgthomas)
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
